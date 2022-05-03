@@ -1,10 +1,10 @@
-#*Welcome to my github page
+#Welcome to my github page
 
 	*I'm Ahmet
 	*I am an engineer
 	*I like coding
   
-#*My Linkedin:
+#My Linkedin:
 [Ahmet's linkedin page](https://www.linkedin.com/in/abayram1/)
 
 #My core skills:
