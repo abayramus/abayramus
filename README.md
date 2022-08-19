@@ -1,7 +1,7 @@
 
 <!-- Information using h1 tag -->
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
-<h5 align="center">Oracle Java certified Full Stack SDET with core Selenium, Database, and API testing experience to provide outstanding assistance in a team-oriented Agile environment, utilizing proficiency in the SDLC, STLC and technical knowledge of automation and development experience with domain knowledge in Finance, Health, Online Marketplace, Retail, Fleet management, and Education applications.</h5>
+<h5 align="center">JAVA | Apex | C# | Javascript | Typescript | Selenium | Salesforce | React.js</h5>
 
 <!-- profile view count. replace username with yours-->
 <p align="left"> 
