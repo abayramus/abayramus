@@ -1,7 +1,7 @@
 
 <!-- Information using h1 tag -->
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
-<h5 align="center">Java | Apex | C# | Javascript | Typescript | Full-Stack Automation Testing with Selenium | Front-End Development with React.js | Salesforce Development with LWC</h5>
+<h5 align="center">Java | Apex | C# | Javascript | Typescript | Full-Stack Automation Testing with Selenium or Cypress | Front-End Development with React.js | Salesforce Development with LWC</h5>
 
 <!-- profile view count. replace username with yours-->
 <p align="left"> 
